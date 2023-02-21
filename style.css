@@ -164,7 +164,9 @@ li:hover .dropdown {
 .nav-link:hover {
   color: #4f62f6;
 }
-
+.hide-on-tablet.nav-link {
+  color: white;
+}
 .hamburger {
   display: none;
   cursor: pointer;
